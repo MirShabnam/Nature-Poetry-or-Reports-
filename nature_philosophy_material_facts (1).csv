@@ -1,0 +1,21 @@
+ID,Category,Year,Fact,Meaning,Source
+1,Philosophical,1620,"Francis Bacon publishes 'Novum Organum', proposing that nature must be 'put to the question' through experiment.",Marks the mechanistic turn in Western thought.,"Bacon, *Novum Organum* (1620), Cambridge University Press."
+2,Philosophical,1637,René Descartes defines nature as mechanism and matter as measurable substance.,Establishes dualism; groundwork for technological worldview.,"Descartes, *Discourse on Method* (1637)."
+3,Philosophical,1687,Isaac Newton presents universal mechanical laws of motion and gravity.,Transforms cosmos into clockwork model.,"Newton, *Principia Mathematica* (1687)."
+4,Philosophical,1748,"Julien Offray de La Mettrie publishes *L’Homme Machine*, asserting 'man is a machine'.",Mechanistic philosophy applied to life itself.,"La Mettrie, *Man a Machine* (1748)."
+5,Philosophical,1798,Romantics like Wordsworth and Coleridge resist mechanization of life through poetry.,Spiritual rebellion against the mechanical age.,"Wordsworth & Coleridge, *Lyrical Ballads* (1798)."
+6,Philosophical,1859,"Darwin’s *Origin of Species* explains life through competition, not divine order.",Nature redefined in scientific and materialist terms.,"Darwin, *Origin of Species* (1859)."
+7,Philosophical,1917,Max Weber describes the 'disenchantment of the world'.,Cultural recognition of lost sacredness in nature.,"Weber, *Science as a Vocation* (1917)."
+8,Philosophical,1954,Heidegger warns that technology turns nature into 'standing reserve'.,Nature as resource; human dominance over being.,"Heidegger, *The Question Concerning Technology* (1954)."
+9,Philosophical,1973,Arne Naess introduces 'Deep Ecology'.,Calls for re-sacralization and intrinsic value of nature.,"Naess, *The Shallow and the Deep Ecology Movement* (1973)."
+10,Philosophical,2000,Posthumanism emerges; nature seen as data and interconnected systems.,Marks datafication of nature in the digital age.,"Latour, Braidotti, Morton (2000s)."
+11,Material,1760,"Industrial Revolution begins in Britain: coal, iron, steam engines transform landscapes.",Start of large-scale material exploitation of nature.,Britannica: Industrial Revolution Overview.
+12,Material,1850,CO₂ levels begin rising from 285 ppm due to industrial emissions.,Start of measurable atmospheric change.,NOAA Climate Data.
+13,Material,1880,Colonial deforestation accelerates; forests cleared for railways and ships.,Globalization of environmental degradation.,UN FAO Historical Reports.
+14,Material,1952,"The Great Smog of London kills 12,000 due to coal pollution.",Public health crisis exposes industrial costs.,"UK National Archives, 1952."
+15,Material,1962,Rachel Carson’s *Silent Spring* reveals dangers of pesticides.,Cultural awakening to ecological destruction.,"Carson, *Silent Spring* (1962)."
+16,Material,1972,Club of Rome’s *Limits to Growth* report predicts ecological collapse.,Birth of sustainability discourse.,*Limits to Growth* (1972).
+17,Material,1986,Chernobyl nuclear disaster contaminates vast ecosystems.,Technological catastrophe with global ecological reach.,"IAEA Records, 1986."
+18,Material,1992,Rio Earth Summit establishes UN climate conventions.,Environmentalism becomes global policy.,UN Earth Summit Documents (1992).
+19,Material,2016,Atmospheric CO₂ exceeds 400 ppm for first time.,Symbol of irreversible industrial impact.,NASA/NOAA Climate Reports.
+20,Material,2020,AI and satellite systems model ecosystems as data networks.,Nature fully datafied and simulated.,IPCC & ClimateAI Reports (2020s).

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Faces of Nature — Comparative Corpus (Romantic vs. Modern/Industrial)</title>
+        <respStmt>
+          <resp>Compilation</resp>
+          <name>ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Public-domain selections compiled for DH analysis</publisher>
+        <date>2025-10-27</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Public-domain texts: Wordsworth, Coleridge, Shelley, Keats, Blake, Thoreau, Eliot (1922), Hopkins, Muir, Sinclair.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      
+    <div type="passage" xml:id="p1" period="Romantic">
+      <head>William Wordsworth — Lines Written a Few Miles above Tintern Abbey (1798)</head>
+      <bibl>William Wordsworth, Lines Written a Few Miles above Tintern Abbey, Final movement</bibl>
+      <note type="themes">nature_purity; memory; healing; moral_spirit</note>
+      <p>Therefore let the moon
+Shine on thee in thy solitary walk;
+And let the misty mountain-winds be free
+To blow against thee: and, in after years,
+When these wild ecstasies shall be matured
+Into a sober pleasure; when thy mind
+Shall be a mansion for all lovely forms,
+Thy memory be as a dwelling-place
+For all sweet sounds and harmonies; oh! then,
+If solitude, or fear, or pain, or grief,
+Should be thy portion, with what healing thoughts
+Of tender joy wilt thou remember me,
+And these my exhortations!</p>
+    </div>
+    
+    <div type="passage" xml:id="p2" period="Romantic">
+      <head>Samuel Taylor Coleridge — The Rime of the Ancient Mariner (1798)</head>
+      <bibl>Samuel Taylor Coleridge, The Rime of the Ancient Mariner, Part II–V (selected)</bibl>
+      <note type="themes">nature_sacred; albatross; blessing</note>
+      <p>The moving Moon went up the sky,
+And no where did abide;
+Softly she was going up,
+And a star or two beside —
+
+O happy living things! no tongue
+Their beauty might declare:
+A spring of love gushed from my heart,
+And I blessed them unaware:
+Sure my kind saint took pity on me,
+And I blessed them unaware.</p>
+    </div>
+    
+    <div type="passage" xml:id="p3" period="Romantic">
+      <head>Percy Bysshe Shelley — Ode to the West Wind (1819)</head>
+      <bibl>Percy Bysshe Shelley, Ode to the West Wind, Opening &amp; close</bibl>
+      <note type="themes">sublime; storm; regeneration</note>
+      <p>O wild West Wind, thou breath of Autumn's being,
+Thou, from whose unseen presence the leaves dead
+Are driven, like ghosts from an enchanter fleeing,
+
+...
+
+Scatter, as from an unextinguished hearth
+Ashes and sparks, my words among mankind!
+Be through my lips to unawakened earth
+The trumpet of a prophecy! O Wind,
+If Winter comes, can Spring be far behind?</p>
+    </div>
+    
+    <div type="passage" xml:id="p4" period="Romantic">
+      <head>John Keats — To Autumn (1820)</head>
+      <bibl>John Keats, To Autumn, Complete poem</bibl>
+      <note type="themes">ripeness; transience; sensuous_nature</note>
+      <p>Season of mists and mellow fruitfulness,
+Close bosom-friend of the maturing sun;
+Conspiring with him how to load and bless
+With fruit the vines that round the thatch-eves run;
+To bend with apples the moss'd cottage-trees,
+And fill all fruit with ripeness to the core;
+To swell the gourd, and plump the hazel shells
+With a sweet kernel; to set budding more,
+And still more, later flowers for the bees,
+Until they think warm days will never cease,
+For Summer has o'er-brimm'd their clammy cells.
+
+Who hath not seen thee oft amid thy store?
+Sometimes whoever seeks abroad may find
+Thee sitting careless on a granary floor,
+Thy hair soft-lifted by the winnowing wind;
+Or on a half-reap'd furrow sound asleep,
+Drowsed with the fume of poppies, while thy hook
+Spares the next swath and all its twined flowers:
+And sometimes like a gleaner thou dost keep
+Steady thy laden head across a brook;
+Or by a cyder-press, with patient look,
+Thou watchest the last oozings hours by hours.
+
+Where are the songs of Spring? Ay, where are they?
+Think not of them, thou hast thy music too,—
+While barred clouds bloom the soft-dying day,
+And touch the stubble-plains with rosy hue;
+Then in a wailful choir the small gnats mourn
+Among the river sallows, borne aloft
+Or sinking as the light wind lives or dies;
+And full-grown lambs loud bleat from hilly bourn;
+Hedge-crickets sing; and now with treble soft
+The red-breast whistles from a garden-croft;
+And gathering swallows twitter in the skies.</p>
+    </div>
+    
+    <div type="passage" xml:id="p5" period="Romantic">
+      <head>William Blake — Auguries of Innocence (selected couplets) (1803)</head>
+      <bibl>William Blake, Auguries of Innocence (selected couplets), Opening + cruelty to creatures</bibl>
+      <note type="themes">innocence; moral_ecology; creatures</note>
+      <p>To see a World in a Grain of Sand
+And a Heaven in a Wild Flower,
+Hold Infinity in the palm of your hand
+And Eternity in an hour.
+
+A Robin Red breast in a Cage
+Puts all Heaven in a Rage.
+A dog starv'd at his Master's Gate
+Predicts the ruin of the State.</p>
+    </div>
+    
+    <div type="passage" xml:id="p6" period="Romantic">
+      <head>Henry David Thoreau — Walden (selected) (1854)</head>
+      <bibl>Henry David Thoreau, Walden (selected), Spring / Sounds</bibl>
+      <note type="themes">simplicity; nature_recovery; observation</note>
+      <p>There was something cosmical about it; a faint, reflected light, a blue shallop skimming over the ocean of winter.
+I had seen the red sunset glimmering through the snow-clad trees, and I said to myself, this is the right place and the right time.</p>
+    </div>
+    
+    <div type="passage" xml:id="p7" period="Modern">
+      <head>T. S. Eliot — The Waste Land (1922)</head>
+      <bibl>T. S. Eliot, The Waste Land, I &amp; II (selected)</bibl>
+      <note type="themes">industrial_alienation; pollution; urban_fog</note>
+      <p>Unreal City,
+Under the brown fog of a winter dawn,
+A crowd flowed over London Bridge, so many,
+I had not thought death had undone so many.
+
+The river sweats
+Oil and tar
+The barges drift
+With the turning tide</p>
+    </div>
+    
+    <div type="passage" xml:id="p8" period="Modern">
+      <head>Gerard Manley Hopkins — Binsey Poplars (1879)</head>
+      <bibl>Gerard Manley Hopkins, Binsey Poplars, Complete poem</bibl>
+      <note type="themes">deforestation; elegy_for_trees</note>
+      <p>My aspens dear, whose airy cages quelled,
+  Quelled or quenched in leaves the leaping sun,
+All felled, felled, are all felled;
+  Of a fresh and following folded rank
+  Not spared, not one
+That dandled a sandalled
+  Shadow that swam or sank
+On meadow &amp; river &amp; wind-wandering weed-winding bank.
+
+O if we but knew what we do
+  When we delve or hew—
+  Hack and rack the growing green!</p>
+    </div>
+    
+    <div type="passage" xml:id="p9" period="Modern">
+      <head>John Muir — The American Forests (1897)</head>
+      <bibl>John Muir, The American Forests, Atlantic Monthly (excerpt)</bibl>
+      <note type="themes">deforestation; warning; conservation</note>
+      <p>The forests of America, however slighted by man, must have been a great delight to God; for they were the best he ever planted.
+But the great pine forests of the West are being mowed down like grain.</p>
+    </div>
+    
+    <div type="passage" xml:id="p10" period="Modern">
+      <head>Upton Sinclair — The Jungle (1906)</head>
+      <bibl>Upton Sinclair, The Jungle, Ch. 14 (selected)</bibl>
+      <note type="themes">industrial_pollution; urban_squalor</note>
+      <p>There would be meat stored in great piles in rooms; and the water from leaky roofs would drip over it, and thousands of rats would race about on it.</p>
+    </div>
+    
+    </body>
+  </text>
+</TEI>
