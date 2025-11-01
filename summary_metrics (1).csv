@@ -1,0 +1,17 @@
+id,type,author,year,token_count,type_token_ratio,sentiment
+p001,poetry,W. Wordsworth (sample),1804,16,0.875,0.0625
+p002,poetry,R. Tagore (sample),1913,17,0.8235294117647058,0.0
+p003,poetry,W. Whitman (sample),1865,15,0.9333333333333333,0.13333333333333333
+p004,poetry,E. Thoreau (sample),1854,14,1.0,0.07142857142857142
+p005,poetry,S. Heaney (sample),1979,13,1.0,0.07692307692307693
+p006,poetry,Eprene (sample),2025,13,1.0,0.07692307692307693
+p007,poetry,Hafez (sample),1370,12,0.9166666666666666,0.16666666666666666
+p008,poetry,Akhtar Sherazi (sample),1999,13,0.9230769230769231,0.07692307692307693
+r001,report,Env. Report (sample),2019,17,0.9411764705882353,-0.058823529411764705
+r002,report,IPCC Brief (sample),2021,20,1.0,-0.05
+r003,report,UNEP Note (sample),2020,16,1.0,-0.0625
+r004,report,Municipal Audit (sample),2018,18,1.0,-0.1111111111111111
+r005,report,Hydrology Survey (sample),2022,17,1.0,0.0
+r006,report,Biodiversity Watch (sample),2023,14,1.0,-0.14285714285714285
+r007,report,NOAA Summary (sample),2017,18,1.0,-0.05555555555555555
+r008,report,State Gazette (sample),2016,12,1.0,-0.08333333333333333

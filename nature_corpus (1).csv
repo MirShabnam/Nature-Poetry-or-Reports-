@@ -1,0 +1,17 @@
+id,type,author,year,text
+p001,poetry,W. Wordsworth (sample),1804,The river sings beneath a sky of listening hills; the wind keeps counsel with the trees.
+p002,poetry,R. Tagore (sample),1913,"Let the forest be my temple, the green hush my prayer; leaves write psalms on the air."
+p003,poetry,W. Whitman (sample),1865,"I befriend the grass, companion to clouds; the earth beats a brave and ancient heart."
+p004,poetry,E. Thoreau (sample),1854,In still water I meet myself; loons declare a freedom not measured by clocks.
+p005,poetry,S. Heaney (sample),1979,"Bog-light remembers; a spade lifts history, wet with the breath of soil."
+p006,poetry,Eprene (sample),2025,The glacier speaks in silences; a blue ache opens where old winters slept.
+p007,poetry,Hafez (sample),1370,Garden and nightingales weave verses where dew is scripture and moonlight ink.
+p008,poetry,Akhtar Sherazi (sample),1999,Mountains kneel to morning; rivers untie their silver hair to bless the valley.
+r001,report,Env. Report (sample),2019,River discharge decreased 2.8% year-on-year; turbidity index rose to 4.1 NTU in Q3.
+r002,report,IPCC Brief (sample),2021,Glacial mass loss accelerated by 0.9 Gt/yr; mean surface temperature anomaly +1.09°C since 1850–1900 baseline.
+r003,report,UNEP Note (sample),2020,Forest canopy cover declined 1.6% regionally; PM2.5 averaged 35 μg/m³ across monitored districts.
+r004,report,Municipal Audit (sample),2018,Sewage outflows exceeded legal thresholds at 3 sites; dissolved oxygen dropped below 5 mg/L for 18 days.
+r005,report,Hydrology Survey (sample),2022,River level peaked at 3.4 m; nitrate concentrations surpassed 10 mg/L in two sampling rounds.
+r006,report,Biodiversity Watch (sample),2023,Wetland bird counts decreased by 14%; invasive species sightings increased in all five transects.
+r007,report,NOAA Summary (sample),2017,Sea surface temperature anomaly reached +0.74°C; coral bleaching alerts upgraded to Level 2 in two regions.
+r008,report,State Gazette (sample),2016,Annual precipitation was 11% below average; groundwater recharge declined across the basin.
